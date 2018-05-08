@@ -78,6 +78,7 @@ a {
   .center p,
   .form {
     width: 100%;
+    padding-right: 0;
   }
   .footer {
     font-size: 9px;
